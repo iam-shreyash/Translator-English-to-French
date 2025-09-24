@@ -72,4 +72,3 @@ Build a Streamlit/Gradio web app for interactive translations.
 Shreyash Yenkar
 📧 shreyash.y14@gmail.com
 
-🔗 LinkedIn
